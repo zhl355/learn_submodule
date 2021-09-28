@@ -1,0 +1,3 @@
+[submodule "subB"]
+	path = subB
+	url = git@github.com:zhl355/subB.git
